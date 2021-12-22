@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/limits-server/limits-server.iml" filepath="$PROJECT_DIR$/limits-server/limits-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_hwang.iml" filepath="$PROJECT_DIR$/microservice_hwang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/spring-config-server/spring-config-server.iml" />
+    </modules>
+  </component>
+</project>
